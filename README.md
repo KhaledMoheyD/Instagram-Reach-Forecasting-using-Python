@@ -24,4 +24,9 @@ https://github.com/KhaledMoheyD/Instagram-Reach-Forecasting-using-Python/blob/ma
 
 ## Analysis Overview
 
-The analysis covers the following aspects of the Instagram Reach:
+The Project covers the following aspects of the Instagram Reach:
+1. Data Exploration
+2. Reach Analysis
+3. Time Series Forcasting
+4. Data Visualization
+
