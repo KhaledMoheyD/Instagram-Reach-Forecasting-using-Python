@@ -16,7 +16,6 @@ To run this project on your machine, you need to install Jupyter Notebook (https
 - Matplotlib
 - seaborn
 - statsmodels
-- Power BI
 
 ## Dataset
 
@@ -29,4 +28,19 @@ The Project covers the following aspects of the Instagram Reach:
 2. Reach Analysis
 3. Time Series Forcasting
 4. Data Visualization
+
+## Insights and Visualizations
+
+The analysis yielded several key insights and visualizations, including:
+
+1. The reach is affected by seasonality
+
+   ![Screenshot 2024-05-22 183823](https://github.com/KhaledMoheyD/Instagram-Reach-Forecasting-using-Python/assets/38184987/44f51da6-6271-4796-a8bd-94db4cb10e79)
+
+2. ![Screenshot 2024-05-22 190624](https://github.com/KhaledMoheyD/Instagram-Reach-Forecasting-using-Python/assets/38184987/db8feaf9-77cb-4c17-af69-1e4f763f7fe0)
+3. ![Screenshot 2024-05-22 190823](https://github.com/KhaledMoheyD/Instagram-Reach-Forecasting-using-Python/assets/38184987/ee4b0deb-3e6d-45c4-9c18-54815f94471b)
+4. Seasonality and Trends
+
+   
+
 
