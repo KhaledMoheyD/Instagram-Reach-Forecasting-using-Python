@@ -47,7 +47,9 @@ The analysis yielded several key insights and visualizations, including:
    ![Screenshot 2024-05-22 191050](https://github.com/KhaledMoheyD/Instagram-Reach-Forecasting-using-Python/assets/38184987/47cdd43e-d503-43ce-ab77-0881e09b9c5f)
 
 ## Conclusion
+   This project provides an analysis of the Instagram reach forcasting using time series analysis
+## Author
+ Khaled Mohey Elden
 
-
-
-
+## Reference
+https://thecleverprogrammer.com/2023/04/24/instagram-reach-forecasting-using-python/
