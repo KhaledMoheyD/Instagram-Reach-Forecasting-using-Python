@@ -1,4 +1,4 @@
-# Instagram-Reach-Forecasting-using-Python
+# Time Series Analysis on Instagram Reach
 
 ## Project Description
 
@@ -41,6 +41,13 @@ The analysis yielded several key insights and visualizations, including:
 3. ![Screenshot 2024-05-22 190823](https://github.com/KhaledMoheyD/Instagram-Reach-Forecasting-using-Python/assets/38184987/ee4b0deb-3e6d-45c4-9c18-54815f94471b)
 4. Seasonality and Trends
 
-   
+   ![Screenshot 2024-05-22 190950](https://github.com/KhaledMoheyD/Instagram-Reach-Forecasting-using-Python/assets/38184987/a38783bf-1b4b-4434-be28-e1b595fd74d8)
+4. Instagram reach time series and predictions after using SARIMA Model
+
+   ![Screenshot 2024-05-22 191050](https://github.com/KhaledMoheyD/Instagram-Reach-Forecasting-using-Python/assets/38184987/47cdd43e-d503-43ce-ab77-0881e09b9c5f)
+
+## Conclusion
+
+
 
 
